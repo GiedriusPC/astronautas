@@ -1,0 +1,26 @@
+header,
+	main,
+	footer {
+	    width: 800px;
+	    margin: auto;
+	    margin-bottom: 30px;
+	    background-color: yellow;
+	}
+	
+	header > img {
+	    background-color: blue;
+	}
+	
+	nav {
+	}
+	
+	nav > a {
+	    background-color: red;
+	}
+	
+	main a {
+	    background-color: orange;
+	}
+	main > img {
+	    background-color: grey;
+	}
