@@ -4,11 +4,11 @@ header,
 	    width: 800px;
 	    margin: auto;
 	    margin-bottom: 30px;
-	    background-color: yellow;
+	    background-color: gray;
 	}
 	
 	header > img {
-	    background-color: blue;
+	    background-color: green;
 	}
 	
 	nav {
@@ -19,7 +19,7 @@ header,
 	}
 	
 	main a {
-	    background-color: orange;
+	    background-color: blue;
 	}
 	main > img {
 	    background-color: grey;
